@@ -1,0 +1,4 @@
+Participant;Consciousness;Total
+“Tante Test”;A;2.2
+“Guus Geluk”:;B;55
+“Test Guy”:;;
