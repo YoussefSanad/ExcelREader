@@ -10,7 +10,7 @@ include_once 'Grades/GradeFactory.php';
 
 class InMemoryDataMapper
 {
-    const FILE_NAME = 'file.txt';
+    const FILE_NAME = 'ParticipantGrades.txt';
     const VALUES_SEPARATOR = ';';
     const PARTICIPANT_NAME_HEADER_INDEX = 0;
 
